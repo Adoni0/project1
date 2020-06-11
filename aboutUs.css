@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin-top: 20px;
+    padding-bottom: 15px;
+}
+
+#float-img {}
+
+.mr-3 {
+    width: 100px;
+    height: 100px;
+    border-style: dotted;
+    margin-left: 30px;
+}
+
+.ml-3 {
+    width: 100px;
+    height: 100px;
+    border-style: dotted;
+    margin-right: 30px;
+}
+
+#about-us2 {
+    margin-left: 30px;
+}
+
+#about-us4 {
+    margin-left: 30px;
+}
